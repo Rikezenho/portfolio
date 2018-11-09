@@ -5,8 +5,6 @@
 </template>
 
 <style lang="scss">
-@import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600,700');
-
 html {
   font-family: 'Work Sans', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;

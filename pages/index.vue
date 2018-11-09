@@ -70,14 +70,12 @@ export default {
   justify-content: left;
   align-items: center;
   text-align: left;
-  margin: 0 auto;
 
-  @media screen and (min-width: 1087px) {
-    max-width: 960px;
-    width: 960px;
+  @media screen and (min-width: 1100px) {
+    padding: 0 10%;
   }
 
-  @media screen and (max-width: 1087px) {
+  @media screen and (max-width: 1099px) {
     padding: 0 5%;
   }
 
@@ -92,7 +90,7 @@ export default {
   font-size: 80px;
   letter-spacing: 1px;
 
-  @media screen and (max-width: 780px) {
+  @media screen and (max-width: 820px) {
     font-size: 70px;
 
     .text {
@@ -111,7 +109,7 @@ export default {
   word-spacing: 5px;
   padding-bottom: 15px;
 
-  @media screen and (max-width: 780px) {
+  @media screen and (max-width: 820px) {
     font-size: 36px;
   }
 
