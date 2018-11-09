@@ -1,22 +1,21 @@
-# portfolio-vue
+# Henrique Kuwai's Portfolio
 
-> Portfolio made with Nuxt and Vue.JS
+> My cleanish portfolio made with Nuxt and Vue.JS.
 
-## Build Setup
+## Building
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
 # serve with hot reload at localhost:3000
 $ yarn run dev
 
-# build for production and launch server
-$ yarn run build
-$ yarn start
-
 # generate static project
 $ yarn run generate
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+## To-do
+
+- [ ] Bring CV project to this repo (Currently in [Gitlab](https://gitlab.com/rikezenho/my-cv))
+- [ ] Add CI
