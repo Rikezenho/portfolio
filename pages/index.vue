@@ -5,7 +5,7 @@
         <img src="~/assets/logo_symbol.png"> <span class="text">Henrique Kuwai</span>
       </h1>
       <h2 class="subtitle">
-        JavaScript lover, developing since 2008.<br>
+        JavaScript lover. Developer since 2008.<br>
         Focusing in front-end since 2015.
         <template v-if="employee">
           <br>Currently employed at
