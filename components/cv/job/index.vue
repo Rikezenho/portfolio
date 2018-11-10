@@ -38,7 +38,7 @@ export default {
 </script>
 
 <style lang="scss">
-@import '~/assets/scss/cv/_variables.scss';
+@import '~/assets/scss/_variables.scss';
 
 .job-item {
   padding: 10px 0;

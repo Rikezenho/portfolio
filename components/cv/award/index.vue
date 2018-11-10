@@ -17,7 +17,7 @@ export default {
 </script>
 
 <style lang="scss">
-@import '~/assets/scss/cv/_variables.scss';
+@import '~/assets/scss/_variables.scss';
 
 .award-item {
   display: block;

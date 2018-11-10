@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div class="cv">
     <header class="header">
       <div class="content">
         <cv-header :data="personal" />
@@ -139,11 +139,4 @@ export default {
 }
 </script>
 
-<style lang="scss">
-@import '~/assets/scss/cv/main.scss';
-
-html {
-  color: #333;
-  font-size: 18px;
-}
-</style>
+<style lang="scss" src="~/assets/scss/cv/main.scss" />
