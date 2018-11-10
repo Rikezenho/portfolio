@@ -1,7 +1,7 @@
 <template>
   <div class="course-item">
     <div class="logo">
-      <img :src="`images/cv/${data.logo}`">
+      <img :src="require(`~/assets/images/cv/${data.logo}`)">
     </div>
     <div class="info">
       <div class="title">{{ data.course }}</div>

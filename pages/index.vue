@@ -3,7 +3,7 @@
     <section class="container">
       <div>
         <h1 class="title">
-          <img src="images/logo.png"> <span class="text">Henrique Kuwai</span>
+          <img :src="require('~/assets/images/logo.png')"> <span class="text">Henrique Kuwai</span>
         </h1>
         <h2 class="subtitle">
           JavaScript lover. Developer since {{ developingSince }}.<br>

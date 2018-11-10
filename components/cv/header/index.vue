@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-    <div class="logo"><img :src="`images/${data.logo}`"></div>
+    <div class="logo"><img :src="require(`~/assets/images/${data.logo}`)"></div>
     <h1>{{ data.name }}</h1>
     <div class="subtitulo">{{ data.subtitle }}, {{ getAge() }} anos.</div>
   </div>
