@@ -8,7 +8,7 @@
         JavaScript lover, developing since 2008.<br>
         Focusing in front-end since 2015.
         <template v-if="employee">
-          <br>Currently employed in
+          <br>Currently employed at
           <a
             :href="employeeUrl"
             class="highlight">{{ employee }}</a>.
