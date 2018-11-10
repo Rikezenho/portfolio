@@ -2,16 +2,19 @@
   <section class="container">
     <div>
       <h1 class="title">
-        <img src="~/assets/logo_symbol.png"> <span class="text">Henrique Kuwai</span>
+        <img src="images/logo_symbol.png"> <span class="text">Henrique Kuwai</span>
       </h1>
       <h2 class="subtitle">
-        JavaScript lover. Developer since 2008.<br>
-        Focusing in front-end since 2015.
-        <template v-if="employee">
+        JavaScript lover. Developer since {{ developingSince }}.<br>
+        Focusing in front-end since {{ frontendSince }}.
+        <template v-if="employee.name">
           <br>Currently employed at
           <a
-            :href="employeeUrl"
-            class="highlight">{{ employee }}</a>.
+            :href="employee.url"
+            class="highlight">{{ employee.name }}</a>.
+        </template>
+        <template v-else>
+          <br>Currenty <span class="highlight">available for jobs</span>.
         </template>
       </h2>
       <div class="links">
@@ -35,35 +38,30 @@
           title="Gitlab">
           <font-awesome-icon :icon="['fab', 'gitlab']" />
         </a>
-        <a
-          :href="cv"
+        <nuxt-link
+          to="/cv"
           title="Full resumeé (CV)">
           <font-awesome-icon icon="file-alt" />
-        </a>
+        </nuxt-link>
       </div>
     </div>
   </section>
 </template>
 
 <script>
+import cvData from '~/assets/json/cv.json'
 export default {
   data() {
-    return {
-      contacts: {
-        email: 'eu@henriquekuwai.com.br',
-        github: 'https://github.com/rikezenho',
-        gitlab: 'https://gitlab.com/rikezenho',
-        linkedin: 'http://br.linkedin.com/in/henriquekuwai'
-      },
-      cv: 'cv',
-      employee: 'Infracommerce',
-      employeeUrl: 'https://www.infracommerce.com.br'
-    }
+    return cvData
   }
 }
 </script>
 
 <style lang="scss">
+html {
+  color: #333;
+}
+
 .container {
   min-height: 100vh;
   display: flex;

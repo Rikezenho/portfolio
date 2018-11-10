@@ -14,10 +14,16 @@ module.exports = {
       { hid: 'description', name: 'description', content: pkg.meta.description }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       {
+        hid: 'favicon',
+        rel: 'icon',
+        type: 'image/x-icon',
+        href: '/favicon.ico'
+      },
+      {
+        hid: 'custom-font',
         rel: 'stylesheet',
-        href: 'https://fonts.googleapis.com/css?family=Work+Sans:400,600,700'
+        href: 'https://fonts.googleapis.com/css?family=FiraSans:300,400,900'
       }
     ]
   },

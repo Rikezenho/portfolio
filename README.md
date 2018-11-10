@@ -17,5 +17,5 @@ $ yarn run generate
 
 ## To-do
 
-- [ ] Bring CV project to this repo (Currently in [Gitlab](https://gitlab.com/rikezenho/my-cv))
+- [x] Bring CV project to this repo
 - [ ] Add CI
