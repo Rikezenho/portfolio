@@ -4,17 +4,18 @@
 
 .cv {
   color: #333;
+  padding-top: 10px;
 
   h2 {
     padding-top: 15px;
   }
 
   .header {
-    overflow: hidden;
+    display: flex;
+    align-items: center;
     padding: 10px 0 20px 0;
 
     .logo {
-      float: left;
       padding-right: 15px;
     }
     h1 {

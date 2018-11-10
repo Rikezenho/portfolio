@@ -1,6 +1,6 @@
 <template>
   <div class="cv">
-    <header class="header">
+    <header>
       <div class="content">
         <cv-header :data="personal" />
       </div>

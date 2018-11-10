@@ -1,8 +1,10 @@
 <template>
   <div class="header">
     <div class="logo"><img :src="require(`~/assets/images/${data.logo}`)"></div>
-    <h1>{{ data.name }}</h1>
-    <div class="subtitulo">{{ data.subtitle }}, {{ getAge() }} anos.</div>
+    <div class="text">
+      <h1>{{ data.name }}</h1>
+      <div class="subtitulo">{{ data.subtitle }}, {{ getAge() }} anos.</div>
+    </div>
   </div>
 </template>
 
