@@ -34,11 +34,6 @@
             title="Github">
             <font-awesome-icon :icon="['fab', 'github']" />
           </a>
-          <a
-            :href="contacts.gitlab"
-            title="Gitlab">
-            <font-awesome-icon :icon="['fab', 'gitlab']" />
-          </a>
           <nuxt-link
             to="/cv"
             title="Full resumeé (CV)">

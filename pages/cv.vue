@@ -97,7 +97,7 @@
         <div
           v-if="!!repository"
           class="additional-info gitlab-info">
-          <font-awesome-icon :icon="['fab', 'gitlab']" />
+          <font-awesome-icon :icon="['fab', 'github']" />
           Código-fonte do currículo:
           <a
             :href="repository"
