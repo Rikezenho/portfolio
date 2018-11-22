@@ -15,7 +15,15 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: pkg.meta.description }
+      {
+        hid: 'description',
+        name: 'description',
+        content: pkg.meta.description
+      },
+      {
+        name: 'google-site-verification',
+        content: 'nQDr0TrWBpxgCkAYXAjW-W-jrPjmtYe7HN3o8iO8I8E'
+      }
     ],
     link: [
       {
