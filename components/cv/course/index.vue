@@ -50,7 +50,7 @@ export default {
     padding-left: 20px;
 
     .title {
-      font-weight: 900;
+      font-weight: 700;
       font-size: 18px;
     }
   }

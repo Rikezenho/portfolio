@@ -44,19 +44,9 @@ export default {
   padding: 10px 0;
   position: relative;
 
-  &:before {
-    content: '\f053';
-    font-family: 'Font Awesome 5 Free';
-    color: $main-color;
-    font-size: 16px;
-    position: absolute;
-    top: 10px;
-    right: 101%;
-  }
-
   .title {
     overflow: hidden;
-    font-weight: 900;
+    font-weight: 700;
     font-size: 18px;
 
     .date {
@@ -81,7 +71,7 @@ export default {
   }
   .provider {
     color: #999;
-    font-weight: 900;
+    font-weight: 700;
   }
 }
 </style>

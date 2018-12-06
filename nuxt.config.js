@@ -35,12 +35,7 @@ module.exports = {
       {
         hid: 'custom-font',
         rel: 'stylesheet',
-        href: 'https://fonts.googleapis.com/css?family=Fira+Sans:300,400,900'
-      },
-      {
-        hid: 'custom-font',
-        rel: 'stylesheet',
-        href: 'https://use.fontawesome.com/releases/v5.5.0/css/all.css'
+        href: 'https://fonts.googleapis.com/css?family=Fira+Sans:300,400,700'
       }
     ]
   },
