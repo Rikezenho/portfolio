@@ -30,7 +30,7 @@
           title="Github">
           <font-awesome-icon :icon="['fab', 'github']" />
           <a
-            :href="`https://github.com/${data.github}`"
+            :href="data.github"
             target="_blank">{{ data.github }}</a>
         </div>
         <div
@@ -39,7 +39,7 @@
           title="Gitlab">
           <font-awesome-icon :icon="['fab', 'gitlab']" />
           <a
-            :href="`https://gitlab.com/${data.gitlab}`"
+            :href="data.gitlab"
             target="_blank">{{ data.gitlab }}</a>
         </div>
       </div>

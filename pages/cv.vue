@@ -89,7 +89,7 @@
           v-if="!!contacts.linkedin"
           class="additional-info linkedIn-info">
           <font-awesome-icon :icon="['fab', 'linkedin']" />
-          Veja mais no meu
+          Veja mais no meu LinkedIn:
           <a
             :href="contacts.linkedin"
             target="_blank">{{ contacts.linkedin }}</a>

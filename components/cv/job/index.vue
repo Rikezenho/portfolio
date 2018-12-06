@@ -45,8 +45,8 @@ export default {
   position: relative;
 
   &:before {
-    content: '\f054';
-    font-family: 'FontAwesome';
+    content: '\f053';
+    font-family: 'Font Awesome 5 Free';
     color: $main-color;
     font-size: 16px;
     position: absolute;
