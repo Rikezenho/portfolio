@@ -35,7 +35,7 @@ module.exports = {
       {
         hid: 'custom-font',
         rel: 'stylesheet',
-        href: 'https://fonts.googleapis.com/css?family=FiraSans:300,400,900'
+        href: 'https://fonts.googleapis.com/css?family=Fira+Sans:300,400,900'
       }
     ]
   },
