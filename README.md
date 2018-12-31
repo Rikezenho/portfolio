@@ -18,5 +18,5 @@ $ yarn run generate
 ## To-do
 
 - [x] Bring CV project to this repo
-- [x] Add CI - w/ Netlify ([https://henriquekuwai.netlify.com](https://henriquekuwai.netlify.com)) - SO EASY!
-- [ ] Point my custom domain to Netlify
+- [x] Add CI - w/ Netlify ([https://henriquekuwai.netlify.com](https://henriquekuwai.netlify.com))
+- [x] Point my custom domain to Netlify
