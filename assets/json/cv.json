@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12 de Novembro de 2018",
+  "lastUpdate": "16 de Junho de 2019",
   "repository": "https://github.com/rikezenho/portfolio",
   "developingSince": "2008",
   "frontendSince": "2015",
@@ -38,7 +38,8 @@
     {
       "position": "Líder técnico Front-end",
       "provider": "Infracommerce - Vila Olímpia, São Paulo",
-      "date": "Nov/16 - Atual"
+      "description": "Estruturação de uma nova plataforma de e-commerce, liderança técnica e auxílio a equipe no dia-a-dia.",
+      "date": "Nov/18 - Atual"
     },
     {
       "position": "Desenvolvedor Front-end",
@@ -124,12 +125,14 @@
         "React",
         "Redux",
         "Ant Design",
-        "Vue.JS",
+        "Vue.js",
         "jQuery",
         "Git",
         "SVN",
-        "Gulp",
-        "Grunt",
+        "CI/CD",
+        "Gulp.js",
+        "Webpack",
+        "Parcel.js",
         "Bower",
         "Express",
         "Node.js",
@@ -152,7 +155,7 @@
     },
     "stillLearning": {
       "title": "Aperfeiçoando...",
-      "items": ["GraphQL", "Apollo", "Webpack", "Parcel", "TDD", "Docker"]
+      "items": ["GraphQL", "Apollo", "TDD", "E2E Tests", "Docker"]
     },
     "softwares": {
       "title": "Softwares com aptidão",
