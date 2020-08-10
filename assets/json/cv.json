@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16 de Junho de 2019",
+  "lastUpdate": "10 de Agosto de 2020",
   "repository": "https://github.com/rikezenho/portfolio",
   "developingSince": "2008",
   "frontendSince": "2015",
@@ -15,14 +15,14 @@
     "web": "henriquekuwai.com.br",
     "github": "https://github.com/rikezenho",
     "codesandbox": "Rikezenho",
-    "address": "Rua Guatapará, 215 - Vila Guarani - 04310-040 - São Paulo, SP",
+    "address": "Rua Mauro, 442 - Saúde - 04055-041 - São Paulo, SP",
     "linkedin": "http://br.linkedin.com/in/henriquekuwai"
   },
   "employee": {
     "name": "Infracommerce",
     "url": "https://www.infracommerce.com.br"
   },
-  "description": "Trabalho com desenvolvimento web desde os 15 anos criando todo tipo de site e aplicação para a web. Hoje, foco mais na parte de front-end.<br/><br/>Desenvolvi o trabalho mais importante da minha carreira atuando como líder de desenvolvimento de novas lojas na Infracommerce, empresa full-service de e-commerce. Sou curioso e autodidata por natureza, sempre em busca de novos aprendizados.",
+  "description": "Desenvolvedor desde 2008, trabalhando especificamente com plataformas próprias de e-commerce desde 2016. Apesar da maior especialização em front-end, já atuei com todas as frentes de desenvolvimento. Executei trabalhos dentro de empresas como a Infracommerce e Netshoes, e também cuidei de projetos de clientes de grande porte, como Unilever, Mondelez, Ray-Ban, 3M, Montblanc, Globo, Havaianas, Três Corações, Thomson Reuters, Revista dos Tribunais, Instituto GPA, entre outros. ",
   "languages": [
     "Português nativo/fluente",
     "Inglês intermediário/técnico",
@@ -38,7 +38,7 @@
     {
       "position": "Líder técnico Front-end",
       "provider": "Infracommerce - Vila Olímpia, São Paulo",
-      "description": "Estruturação de uma nova plataforma de e-commerce, liderança técnica e auxílio a equipe no dia-a-dia.",
+      "description": "Orientação técnica de times multidisciplinares; análise de códigos, reforço de boas práticas e fluxos de trabalho; garantir regras de negócio nas aplicações; garantir a implantação das features em ambiente produtivo; disseminação de conhecimento; melhorias no core das aplicações; criação e aperfeiçoamento de ferramentas para melhorar o dia-a-dia dos desenvolvedores.",
       "date": "Nov/18 - Atual"
     },
     {
@@ -119,25 +119,26 @@
         "CSS",
         "SCSS",
         "Bootstrap",
+        "Docker",
         "Chrome Extensions",
         "JavaScript",
+        "TDD",
+        "E2E Tests",
         "ES6+",
         "React",
         "Redux",
-        "Ant Design",
+        "Material UI",
+        "Vuetify",
         "Vue.js",
         "jQuery",
         "Git",
         "SVN",
         "CI/CD",
-        "Gulp.js",
+        "Gitlab CI",
         "Webpack",
-        "Parcel.js",
-        "Bower",
         "Express",
         "Node.js",
         "MongoDB",
-        "Dust.js",
         "Mustache.js",
         "JSF",
         "Apache Velocity",
@@ -155,13 +156,13 @@
     },
     "stillLearning": {
       "title": "Aperfeiçoando...",
-      "items": ["GraphQL", "Apollo", "TDD", "E2E Tests", "Docker"]
+      "items": ["GraphQL", "Apollo", "ELK Stack", "Elixir", "TypeScript"]
     },
     "softwares": {
       "title": "Softwares com aptidão",
       "items": [
         "SO Windows",
-        "Ubuntu",
+        "Linux based SOs",
         "VS Code",
         "Adobe Photoshop",
         "Pacote Office",
