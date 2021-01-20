@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10 de Agosto de 2020",
+  "lastUpdate": "20 de Janeiro de 2021",
   "repository": "https://github.com/rikezenho/portfolio",
   "developingSince": "2008",
   "frontendSince": "2015",
@@ -22,7 +22,7 @@
     "name": "Infracommerce",
     "url": "https://www.infracommerce.com.br"
   },
-  "description": "Desenvolvedor desde 2008, trabalhando especificamente com plataformas próprias de e-commerce desde 2016. Apesar da maior especialização em front-end, já atuei com todas as frentes de desenvolvimento. Executei trabalhos dentro de empresas como a Infracommerce e Netshoes, e também cuidei de projetos de clientes de grande porte, como Unilever, Mondelez, Ray-Ban, 3M, Montblanc, Globo, Havaianas, Três Corações, Thomson Reuters, Revista dos Tribunais, Instituto GPA, entre outros. ",
+  "description": "Desenvolvedor desde 2008, trabalhando especificamente com plataformas próprias de e-commerce desde 2016, e 100% focado em B2B desde 2018. Apesar da paixão por front-end, já atuei com todas as frentes de desenvolvimento. Executei trabalhos dentro de empresas como a Infracommerce e Netshoes, e cuidei de projetos de clientes de grande porte, como Unilever, Mondelez, Ray-Ban, 3M, Montblanc, Globo, Havaianas, Três Corações, Thomson Reuters, Revista dos Tribunais, Instituto GPA, entre outros.",
   "languages": [
     "Português nativo/fluente",
     "Inglês intermediário/técnico",
@@ -36,40 +36,52 @@
   },
   "history": [
     {
-      "position": "Líder técnico Front-end",
+      "position": "Arquiteto de software",
       "provider": "Infracommerce - Vila Olímpia, São Paulo",
-      "description": "Orientação técnica de times multidisciplinares; análise de códigos, reforço de boas práticas e fluxos de trabalho; garantir regras de negócio nas aplicações; garantir a implantação das features em ambiente produtivo; disseminação de conhecimento; melhorias no core das aplicações; criação e aperfeiçoamento de ferramentas para melhorar o dia-a-dia dos desenvolvedores.",
-      "date": "Nov/18 - Atual"
+      "description": "Atualmente, oriento times e desenvolvedores, tentando exercitar o cuidado em cada etapa da implantação de uma feature ou projeto. Fomento o debate para a definição das soluções técnicas mais adequadas. Realizo pesquisa de soluções e bibliotecas dependendo da necessidade, bem como a criação de POCs para aprovar ideias. Continuo reforçando boas práticas de código e fluxos de trabalho, e tento disseminar o que posso de conhecimento, falando tanto de hard quanto de soft skills. Tenho grande preocupação com o developer experience, e portanto, constantemente crio documentações e ferramentas pensando nesse fim.",
+      "date": "Nov/20 - Atual"
     },
     {
-      "position": "Desenvolvedor Front-end",
+      "position": "Líder técnico",
+      "provider": "Infracommerce - Vila Olímpia, São Paulo",
+      "description": "Fui um dos pilares da construção de uma nova plataforma de e-commerce B2B para a empresa, reformulando todo o front-end do site final. Também atuei orientando times multidisciplinares, garantindo a qualidade de código nas equipes que pude acompanhar. Participei da definição de processos internos, criei ferramentas para facilitar estes processos e também realizei diversas melhorias, correções e implementação de novas tecnologias no core da plataforma.",
+      "date": "Nov/18 - Nov/20"
+    },
+    {
+      "position": "Desenvolvedor front-end",
       "provider": "Netshoes - Liberdade, São Paulo",
-      "description": "Atuação na equipe de novos produtos da plataforma Freedom, criação de novas lojas e desenvolvimento de ferramentas internas no admin da companhia, utilizando React e Redux. Criação também de ferramentas para o workflow da equipe.",
+      "description": "Participei da criação de novas features para a plataforma e também para o back-office, integrei novas lojas e participei de forma ativa na disseminação de conhecimento técnico.",
       "date": "Abr/18 - Out/18"
     },
     {
-      "position": "Líder técnico Front-end",
+      "position": "Líder técnico front-end",
       "provider": "Infracommerce - Vila Olímpia, São Paulo",
-      "description": "Líder de desenvolvimento de novas lojas, coordenando e orientando a implantação das lojas desde o escopo até o lançamento; também boto a mão na massa, criando bibliotecas e scripts utilizando Javascript, jQuery e ES6. Criação de ferramentas para melhorar o workflow da equipe, como extensões para o navegador.",
-      "date": "Jul/16 - Abr/18",
+      "description": "Liderei o desenvolvimento de novas lojas. Atuei coordenando, dando suporte para as equipes e orientando a implantação das lojas desde o escopo, quebra das atividades, até o go live do projeto. Também desenvolvi ferramentas para facilitar o dia a dia da TI da empresa.",
+      "date": "Nov/17 - Abr/18"
+    },
+    {
+      "position": "Desenvolvedor front-end",
+      "provider": "Infracommerce - Vila Olímpia, São Paulo",
+      "description": "Atuei como desenvolvedor em diversos e-commerces de médio e grande porte, tanto na implementação de novas features, quanto melhorias e correções de bugs.",
+      "date": "Jul/16 - Nov/17",
       "awards": ["Prêmio de revelação TI 2016"]
     },
     {
-      "position": "Desenvolvedor Full Stack",
+      "position": "Desenvolvedor full Stack",
       "provider": "Agevole - Santo Amaro, São Paulo",
-      "description": "Criação e programação de sites institucionais, portais, hotsites promocionais, integração com banco de dados, sites em WordPress, além de ferramentas para melhorar processos e também auxílio da equipe em questões de web e digital.",
+      "description": "Criei e mantive sites institucionais, portais, hotsites promocionais, todos com CMS próprio. Também criei sites em WordPress e ferramentas para melhorar processos, além de auxiliar a equipe em questões de web e digital.",
       "date": "Jan/14 - Mar/16"
     },
     {
       "position": "Webdeveloper",
       "provider": "Jornal Nippak - Liberdade, São Paulo",
-      "description": "Atualização do portal do Jornal, desenvolvimento de ferramentas internas para a equipe e também campanhas online.",
+      "description": "Atualizei o portal do Jornal (WordPress), desenvolvi de ferramentas internas para a equipe e também auxiliei a criação de campanhas online.",
       "date": "Ago/12 - Mar/13"
     },
     {
-      "position": "Webdesigner",
+      "position": "Webdeveloper",
       "provider": "Agência Elementare - Vila Carrão, São Paulo",
-      "description": "Estruturação e montagem de sites utilizando PHP, ASP, CSS, Javascript (framework jQuery). Desenvolvimento de painéis de controle, sistemas de gerenciamento de conteúdo e interfaces de usuário.",
+      "description": "Estruturei e montei sites utilizando PHP, ASP, CSS, Javascript (framework jQuery). Desenvolvi painéis de controle, sistemas de gerenciamento de conteúdo e interfaces de usuário.",
       "date": "Ago/08 - Jun/10"
     }
   ],
