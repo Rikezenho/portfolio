@@ -88,6 +88,18 @@
   "complementary": [
     {
       "institute": "Udemy (online)",
+      "course": "Gitlab CI: Pipelines, Continuous Delivery e Deployment",
+      "date": "Fev/2019",
+      "logo": "udemy.png"
+    },
+    {
+      "institute": "Udemy (online)",
+      "course": "Docker: Ferramenta essencial para desenvolvedores",
+      "date": "Nov/2018",
+      "logo": "udemy.png"
+    },
+    {
+      "institute": "Udemy (online)",
       "course": "React + Redux (by Leonardo Moura Leitão)",
       "date": "Set/2018",
       "logo": "udemy.png"
@@ -100,20 +112,8 @@
     },
     {
       "institute": "Alura (online)",
-      "course": "HTTP: Entendendo a web por baixo dos panos",
-      "date": "Fev/2018",
-      "logo": "alura.png"
-    },
-    {
-      "institute": "Alura (online)",
       "course": "Vue.js parte 2: construindo Single Page Applications",
       "date": "Dez/2017",
-      "logo": "alura.png"
-    },
-    {
-      "institute": "Alura (online)",
-      "course": "JavaScript avançado I: ES6, orientação a objetos e padrões de projetos",
-      "date": "Dez/2016",
       "logo": "alura.png"
     },
     {
