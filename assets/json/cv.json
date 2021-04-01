@@ -88,6 +88,12 @@
   "complementary": [
     {
       "institute": "Udemy (online)",
+      "course": "Desenvolvimento AWS 2020 com foco em Serverless",
+      "date": "Abr/2021",
+      "logo": "udemy.png"
+    },
+    {
+      "institute": "Udemy (online)",
       "course": "Entendendo TypeScript",
       "date": "Mar/2021",
       "logo": "udemy.png"
@@ -115,12 +121,6 @@
       "course": "Vue.js parte 2: construindo Single Page Applications",
       "date": "Dez/2017",
       "logo": "alura.png"
-    },
-    {
-      "institute": "Udemy (online)",
-      "course": "Curso de UX para Webdesigners",
-      "date": "Out/2014",
-      "logo": "udemy.png"
     }
   ],
   "nodeLists": {
